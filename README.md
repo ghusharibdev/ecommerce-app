@@ -1,14 +1,15 @@
 # 🛍️ Flutter E-Commerce App
 
 A simple and functional **eCommerce mobile app** built using **Flutter** and **Firebase**.  
-It supports product browsing, cart management per user, and multiple checkout options including **JazzCash** and **Cash on Delivery**.
+It supports product browsing, cart management per user, order history and multiple checkout options including **JazzCash** and **Cash on Delivery**.
 
 ---
 
 ## 🚀 Features
 
 - 🔐 User authentication with Firebase Auth  
-- 🛒 Cart system (separate for each user) using Firestore  
+- 🛒 Cart system (separate for each user) using Firestore
+- 🕑 Order history using Firestore
 - 💳 Payment methods:
   - JazzCash Integration
   - Cash on Delivery  
